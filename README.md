@@ -1,4 +1,6 @@
-User Authentication
+User Authentication:-
+
+
 This project includes a secure signup and login system using API calls. Users can safely create accounts and log in to access protected features.
 
 Signup: Users can register with their name, email, and password. The frontend sends this data to an API, which creates a new user account securely.
